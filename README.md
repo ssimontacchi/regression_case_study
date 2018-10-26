@@ -1,5 +1,5 @@
 # regression_case_study
-Used linear regression, LASSO, Ridge regressions and more to predict sale prices using extremely messy dataset
+Used linear regression, LASSO, Ridge regressions and more to predict sale prices using extremely messy dataset.
 
 This dataset was presented to us as our first case study at Galvanize, with the goal of using linear regression 
 to accurately predict vehicle sale prices.
